@@ -1,4 +1,4 @@
-package com.zacharylavoie.example_package;
+package com.simpleexample;
 
 public class ExampleClass {
     public static void main(String[] args) {
